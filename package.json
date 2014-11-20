@@ -1,8 +1,16 @@
 {
-    "name": "browserify-window",
-    "version": "0.0.1",
+    "name":"browserify-window",
+    "version":"0.0.2",
+    "license": "MIT",
+    "description": "Crazy small package which helps exporting modules in browserify to global scope for debugging.",
+    "homepage": "https://github.com/daniula/browserify-window",
     "author": {
-        "name": "daniula",
-        "url": "http://twitter.com/daniula",
+        "name": "Daniel Mendalka",
+        "email": "daniel.mendalka@gmail.com",
+        "url": "http://twitter.com/daniula)",
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/daniula/browserify-window"
     }
 }
